@@ -7,6 +7,6 @@ Benchmarking C++ Array LinkedList. Runs common operations on array and linkedlis
 How to run
 ==========
 
-   AvLL.o -nri <% of random inserts> -nfi <% of inserts at front> -nti <% of inserts at end> -nu <% of updates> -ns <% of random selects>
+    AvLL.o -nri <% of random inserts> -nfi <% of inserts at front> -nti <% of inserts at end> -nu <% of updates> -ns <% of random selects>
 
 
